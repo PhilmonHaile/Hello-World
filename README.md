@@ -1,4 +1,4 @@
-# H1 Hello-World - **A Repository all About me!**
+# A Repository all About me!
 
 Hello! My name is Philmon Haile and I am an aspiring DevOps engineer.I am also interested in Scrum Master/Release Traing engineering positions, and Cloud Engineering roles. I recently earned my AWS Cloud Practitioner certification, and I am currently studying for the AWS Solution Architect certification. After graduting with a degree in Information Systems, I spent three years working in a professional setting at two different firms I have been impacted by the cooling job market, and have been recently laid off.
 
